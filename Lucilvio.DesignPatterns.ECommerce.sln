@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucilvio.DesignPatterns.ECommerce.Sample", "Lucilvio.DesignPatterns.ECommerce.Sample\Lucilvio.DesignPatterns.ECommerce.Sample.csproj", "{0FADC014-CA81-4C2D-9127-76B1D213657B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucilvio.DesignPatterns.ECommerce.VendorApi", "Lucilvio.DesignPatterns.ECommerce.VendorApi\Lucilvio.DesignPatterns.ECommerce.VendorApi.csproj", "{EFA0B13C-9D45-4972-AC09-3F51E5F6105D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FADC014-CA81-4C2D-9127-76B1D213657B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FADC014-CA81-4C2D-9127-76B1D213657B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FADC014-CA81-4C2D-9127-76B1D213657B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FADC014-CA81-4C2D-9127-76B1D213657B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA0B13C-9D45-4972-AC09-3F51E5F6105D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA0B13C-9D45-4972-AC09-3F51E5F6105D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA0B13C-9D45-4972-AC09-3F51E5F6105D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA0B13C-9D45-4972-AC09-3F51E5F6105D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D42AB52D-B978-46B9-99C8-FE2A6315C789}
+	EndGlobalSection
+EndGlobal
